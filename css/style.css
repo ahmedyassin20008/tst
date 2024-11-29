@@ -1,0 +1,45 @@
+.navbar-toggler{
+    color: black;
+    border: none;
+}
+.navbar-toggler:hover{
+    background-color: #b4b4b4;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active{
+    box-shadow: none;
+}
+.collapse .list-group-item{
+    border: none;
+    font-size: 30px;
+}
+.collapse .list-group-item:hover{
+    background-color: #b4b4b4;
+}
+#section-2 .numbers a{
+    color: #000;
+}
+#section-2 .numbers a:hover{
+    background-color: #000;
+    color: white;
+    padding: 4px 10px;
+}
+#section-2 .numbers a:nth-child(2){
+    background-color: #000;
+    color: white;
+    padding: 4px 10px;
+}
+#section-3 p:last-of-type{
+    margin-bottom: 5rem;
+}
+#footer h5{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+#footer hr{
+    margin-left: 60px;
+}
+#footer .item:hover{
+    background-color: #b4b4b4;
+    padding: 10px 10px;
+}
